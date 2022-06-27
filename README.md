@@ -20,7 +20,7 @@ Requires macOS 12 or later.
 
 ## Features
 
-- Show in your menu bar
+- Show as normal app in your menu bar
 - Assign a color to the task
 - Quick action to close app
 
